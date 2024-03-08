@@ -1,12 +1,12 @@
 ---
-title: "Undertale's Mirror Moments: A Profound Reflection on Identity"
-description: "An analysis on the popular indie game: Undertale, and the meaning behind the character's interaction with mirrors in the game."
+title: "Undertale Mirror Moments: A Profound Reflection on Identity"
+description: "An analysis on the popular indie game: Undertale, and the meaning behind the player's interaction with mirrors"
 publishDate: "08 Mar 2024"
 tags: ["Undertale", "IndieGames", "GameAnalysis", "Symbolism", "Storytelling"]
 draft: false
 ---
 
-# Undertale's Mirror Moments: A Profound Reflection on Identity
+## Undertale's Mirror Moments: A Profound Reflection on Identity
 
 Back when Undertale came out in 2015 it was and still is one of my favorite game. It had a great story and great characters that left you invested in the world. I especially liked the multiple interactions the main character has with multiple different objects and characters throughout the playthrough. One such interaction which am go write about today is the character's interaction with mirrors.
 
